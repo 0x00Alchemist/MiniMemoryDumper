@@ -1,0 +1,12 @@
+.git
+
+MiniMemoryDumper/.vs
+MiniMemoryDumper/Release
+MiniMemoryDumper/x64
+
+/MiniMemoryDumper/MemoryDumper/x64
+/MiniMemoryDumper/MemoryDumper/Release
+/MiniMemoryDumper/MemoryDumper/Debug
+/MiniMemoryDumper/MemoryDumper/MemoryDumper.vcxproj
+/MiniMemoryDumper/MemoryDumper/MemoryDumper.vcxproj.filters
+/MiniMemoryDumper/MemoryDumper/MemoryDumper.vcxproj.user
